@@ -1,6 +1,6 @@
 /**
 * @FileName��Test4.java
-* @Package��com.itheima
+* @Package��com.itchina
 * @Description: (�����ļ���ʲô)
 * @author��Rocky
 * @date�� Oct 24, 2016

@@ -1,6 +1,6 @@
 /**
 * @FileName��Test00.java
-* @Package��com.itheima.exam
+* @Package��com.itchina.exam
 * @Description: (�����ļ���ʲô)
 * @author��Rocky
 * @date�� Oct 26, 2016
